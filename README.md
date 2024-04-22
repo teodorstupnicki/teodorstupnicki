@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![My Skills](https://skillicons.dev/icons?i=ts,dotnet,kubernetes,docker,azure&theme=light)
+![My Skills](https://skillicons.dev/icons?i=ts,dotnet,kubernetes,docker,azure&theme=dark)
 <!--
 **teodorstupnicki/teodorstupnicki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
