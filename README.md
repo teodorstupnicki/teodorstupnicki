@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on my personal Rust projects
+
 `⚡ my skills ⚡`
 
 ![My Skills](https://skillicons.dev/icons?i=ts,rust,dotnet,kubernetes,docker,azure&theme=dark)
