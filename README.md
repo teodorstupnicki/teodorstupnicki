@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - I’m currently working on my personal Rust / smart contracts projects
-- I work as a software / DevOps engineer at Bosch
+- I work as a Software / DevOps engineer at Bosch
 - Areas of interest: Rust, blockchain, smart contracts
 
 `⚡ my skills ⚡`
