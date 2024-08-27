@@ -7,7 +7,7 @@
 
 `⚡ my skills ⚡`
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,solidity,rust,dotnet,angular,kubernetes,docker,azure,terraform&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=linux,js,ts,solidity,rust,dotnet,angular,kubernetes,docker,azure,terraform&theme=light)
 <!--
 **teodorstupnicki/teodorstupnicki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
