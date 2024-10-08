@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I’m currently working on my personal Rust / smart contracts projects
+- I’m currently working on my personal Rust and smart contracts projects
 - I work as a Cloud Engineer | DevOps at Circle K
 - I specialize in web application security, automation and GitOps
 - Areas of interest: Rust, blockchain, smart contracts
