@@ -5,8 +5,6 @@
 - I specialize in web application security, automation and GitOps
 - Areas of interest: Rust, blockchain, smart contracts
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=teodorstupnicki&layout=compact&theme=radical)
-
 `⚡ my skills ⚡`
 
 ![My Skills](https://skillicons.dev/icons?i=linux,js,ts,solidity,rust,dotnet,angular,kubernetes,docker,azure,terraform&theme=light)
